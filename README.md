@@ -1,2 +1,3 @@
 # Merge
+LOCAL
 quelques lignes
